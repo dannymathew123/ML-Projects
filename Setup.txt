@@ -1,0 +1,10 @@
+
+How to setup the code
+===================================================
+1. Install Anaconda
+2. Install VScode
+3. Install python
+3. install git
+4. Open VScode and clone the repo in terminal
+5. setup the virtal environment for each project using "conda env create -f Dependencies\conda.yml"
+6. run "python Score\score.py"

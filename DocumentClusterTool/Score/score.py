@@ -1,6 +1,7 @@
 import os
 from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
+dirname = os.getcwd()
 SAMPLE_FILEPATH = './/Models//Samples//'
 
 def load_model():
